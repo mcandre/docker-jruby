@@ -1,4 +1,4 @@
-IMAGE=mcandre/docker-jruby:latest
+IMAGE=mcandre/docker-jruby:1.7
 
 all: run
 
