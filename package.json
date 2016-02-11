@@ -1,5 +1,5 @@
 {
-  "name": "docker-jruty",
+  "name": "docker-jruby",
   "description": "a Docker container having JRuby",
   "version": "0.0.0",
   "repository": {
